@@ -11,4 +11,4 @@
 <h1>Motivation behind this repository:</h1>
 This space serves as my programming journal as I embark on the journey to refine my Python skills. I invite you to explore, collaborate, and learn alongside me. Feel free to share your solutions or suggest improvements.
 
-<h1>Let's code together! 🖥️</h1>
+Let's code together! 🖥️
