@@ -4,9 +4,9 @@
 
 <h1>What to expect:</h1>
 
-🚀 Varied exercises to strengthen programming logic.
-📚 Detailed comments for understanding and learning.
-💻 Creative and efficient solutions for each challenge.
+🚀 Varied exercises to strengthen programming logic.<br>
+📚 Detailed comments for understanding and learning.<br>
+💻 Creative and efficient solutions for each challenge.<br>
 
 <h1>Motivation behind this repository:</h1>
 This space serves as my programming journal as I embark on the journey to refine my Python skills. I invite you to explore, collaborate, and learn alongside me. Feel free to share your solutions or suggest improvements.
