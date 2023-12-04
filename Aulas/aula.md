@@ -8,3 +8,5 @@ import.biblioteca<br>
 
 <h1>Bibliotecas</h1><br>
 (matématica)math: ceil,floor(arredondamento para baixo), trunx, pow,sqrt.
+
+Se você quiser buscar uma biblioteca especifica do python, é só ir em documentação do python que voc~e está utilizando.
